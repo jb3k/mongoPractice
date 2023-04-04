@@ -15,3 +15,4 @@ Project Setup:
     -  "devStart": "nodemon server.js"
 3. create server.js file
 4. start express server
+![image](./ExpressMongo%20Setup.png)
